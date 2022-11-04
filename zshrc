@@ -63,3 +63,5 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+source /home/samaneh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+ plugins=(gitfast last-working-dir common-aliases zsh-syntax-highlighting history-substring-search pyenv ssh-agent)source /home/samaneh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
